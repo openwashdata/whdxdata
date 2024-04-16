@@ -1,0 +1,23 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v1.0.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "whdxdata" in publications use:'
+type: software
+license: CC-BY-4.0
+title: 'whdxdata: Water point exchange data'
+version: 0.0.0.9000
+abstract: Data from the Water Point Data Exchange (WPDX) database.
+authors:
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015
+date-released: '2024-04-16'
+contact:
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015

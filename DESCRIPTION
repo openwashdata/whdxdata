@@ -1,5 +1,5 @@
 Package: whdxdata
-Title: Water point exchange data.
+Title: Water point exchange data
 Version: 0.0.0.9000
 Authors@R: 
     person("Lars", "Schöbitz", , "lschoebitz@ethz.ch", role = c("aut", "cre"),
