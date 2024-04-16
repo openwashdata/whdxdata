@@ -1,0 +1,11 @@
+directory,file_name,variable_name,variable_type,description
+data/,whdxdata.rda,row_id,double, A sentence without commas but a capital letter and a period at the end.
+data/,whdxdata.rda,source,character, Submitter of the data.
+data/,whdxdata.rda,lat_deg,double, Latitude in decimal degrees.
+data/,whdxdata.rda,lon_deg,double, Longitude in decimal degrees.
+data/,whdxdata.rda,report_date,character, Date of the report.
+data/,whdxdata.rda,status_id,character, Status of the data.
+data/,whdxdata.rda,water_source,character, Source of water.
+data/,whdxdata.rda,water_tech,character,  Technology used for water.
+data/,whdxdata.rda,country_name,character, Name of the country.
+data/,whdxdata.rda,adm1,character, Name of the first administrative division.
