@@ -76,3 +76,7 @@ dictionary |>
   write_csv("data-raw/dictionary.csv")
 
 
+openwashdata:: generate_roxygen_docs("data-raw/dictionary.csv",
+                                     "R/whdxdata.R",
+                                     df_name = "whdxdata")
+
