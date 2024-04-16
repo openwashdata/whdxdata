@@ -4,6 +4,8 @@
 # whdxdata
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/openwashdata/whdxdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/whdxdata/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of whdxdata is to …
